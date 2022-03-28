@@ -6,3 +6,8 @@ O que eu vou aprender na Trybe:
 teste
 teste 2
 Robertão 
+- Unix
+- Bash
+- Git
+- HTML
+- CSS

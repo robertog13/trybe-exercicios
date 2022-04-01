@@ -4,10 +4,6 @@ O que eu vou aprender na Trybe:
 - Bash
 - Git
 teste
+c#
 teste 2
-Robertão 
-- Unix
-- Bash
-- Git
-- HTML
-- CSS
+
